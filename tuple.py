@@ -1,0 +1,23 @@
+# paa = ("griphine","florence","william","kevin","shadrack","gabriel","leonard","edwin")
+# mamba =("victor","manka","darius","brian","kossy")
+# lab2 = paa+mamba
+#print(paa)
+#paa.append("adrian")
+#print(paa)
+# paa.remove("kevin")
+# print(paa)
+
+# print(paa[0])
+# print(paa[0:3])
+# print(len[paa])
+
+colors =("blue","red","white","black","purple","grey")
+fruits =("oqnge","banana","mango","watermellon","lemon")
+# print(colors+fruits)
+# print(colors)
+# print(colors[5])
+# print(colors[3:6])
+y =list(fruits)
+y.remove("mango")
+fruits =tuple(y)
+print(fruits)
